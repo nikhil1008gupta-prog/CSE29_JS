@@ -17,7 +17,7 @@ num = undefined;
 console.log(num);
 console.log(typeof(num));
 
-// 
+// refrence data type
 //function
 var sayHello=function()
 {
