@@ -32,6 +32,7 @@ var person=
  city:"New York",
  title:"Mr."
 }
+console.log(person);
 // symbol
 const sym1 = Symbol('foo');
 console.log(sym1);
